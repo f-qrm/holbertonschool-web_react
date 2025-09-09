@@ -1,3 +1,27 @@
-TypeScript/task_0/node_modules/.bin/ansi-html
-TypeScript/task_1/node_modules/.bin/acorn
-TypeScript/task_2/node_modules/.bin/browserslist
+# Node modules
+node_modules/
+
+# Fichiers de build / compilés
+dist/
+build/
+bundle.js
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: coverage reports
+coverage/
+TypeScript/task_1/node_modules/.bin/ansi-html
